@@ -1,0 +1,303 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/uzina
+Data file = C:\xampp\htdocs\uzina\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = C:\xampp\htdocs\uzina\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = C:\xampp\htdocs\uzina\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				client-logos-4		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-5		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-6		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-7		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-8		" (Fichier média)
+[ERROR] Failed to import "
+				drink-fashion-bottle-wine-bottle-glass-bottle-liqueur-864804-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				girl-hair-female-pattern-model-spring-625342-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				heel-shoe-girl-woman-leather-feet-1207042-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				leather-bag-clothing-black-arm-lingerie-1101083-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				leather-chair-furniture-sofa-couch-lounge-1416078-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				mannequin-3616355		" (Fichier média)
+[ERROR] Failed to import "
+				people-girl-woman-white-sport-air-1105758-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				ring-jewelry-jewellery-jewel-silver-bright-833724-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				site-logo		" (Fichier média)
+[ERROR] Failed to import "
+				StockSnap_BXQV774BOY		" (Fichier média)
+[ERROR] Failed to import "
+				StockSnap_G2V8G1H1AQ		" (Fichier média)
+[ERROR] Failed to import "
+				summer-fashion-product-sunglasses-glasses-eyewear-1017590-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				tool-razor-utility-knife-small-appliances-home-appliances-1157294-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				traffic-car-wheel-seating-vehicle-motorcycle-1056383-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				utensil-wood-white-ground-home-isolated-1048612-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				watch-hand-ring-time-fashion-jewellery-1150644-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-blue-jewelry-bracelet-jewellery-turquoise-1124413-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-chain-female-bag-handbag-jewellery-1197308-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527789-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527793-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527822-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527825-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-pattern-fashion-clothing-527810-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				person-people-girl-woman-hair-white-588481-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				small-site-logo		" (Fichier média)
+[ERROR] Failed to import "
+				orange-model-fashion-clothing-yellow-textile-673989-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				pram-for-children-pocket-white-background-purple-1583875-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				shoe-basic-pump-634815		" (Fichier média)
+[ERROR] Failed to import "
+				watch-hand-clock-time-fashion-set-686610-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				white-wheel-training-exercise-weight-fitness-708581-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				african-african-american-afro-america-american-asian-1448533-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				attractive-beautiful-beauty-blonde-hair-elegant-face-1492229-pxhere.com		" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				client-logos-4		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-5		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-6		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-7		" (Fichier média)
+[ERROR] Failed to import "
+				client-logos-8		" (Fichier média)
+[ERROR] Failed to import "
+				drink-fashion-bottle-wine-bottle-glass-bottle-liqueur-864804-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				girl-hair-female-pattern-model-spring-625342-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				heel-shoe-girl-woman-leather-feet-1207042-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				leather-bag-clothing-black-arm-lingerie-1101083-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				leather-chair-furniture-sofa-couch-lounge-1416078-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				mannequin-3616355		" (Fichier média)
+[ERROR] Failed to import "
+				people-girl-woman-white-sport-air-1105758-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				ring-jewelry-jewellery-jewel-silver-bright-833724-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				site-logo		" (Fichier média)
+[ERROR] Failed to import "
+				StockSnap_BXQV774BOY		" (Fichier média)
+[ERROR] Failed to import "
+				StockSnap_G2V8G1H1AQ		" (Fichier média)
+[ERROR] Failed to import "
+				summer-fashion-product-sunglasses-glasses-eyewear-1017590-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				tool-razor-utility-knife-small-appliances-home-appliances-1157294-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				traffic-car-wheel-seating-vehicle-motorcycle-1056383-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				utensil-wood-white-ground-home-isolated-1048612-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				watch-hand-ring-time-fashion-jewellery-1150644-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-blue-jewelry-bracelet-jewellery-turquoise-1124413-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-chain-female-bag-handbag-jewellery-1197308-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527789-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527793-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527822-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-fashion-clothing-outerwear-527825-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				woman-female-standing-pattern-fashion-clothing-527810-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				person-people-girl-woman-hair-white-588481-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				small-site-logo		" (Fichier média)
+[ERROR] Failed to import "
+				orange-model-fashion-clothing-yellow-textile-673989-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				pram-for-children-pocket-white-background-purple-1583875-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				shoe-basic-pump-634815		" (Fichier média)
+[ERROR] Failed to import "
+				watch-hand-clock-time-fashion-set-686610-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				white-wheel-training-exercise-weight-fitness-708581-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				african-african-american-afro-america-american-asian-1448533-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				attractive-beautiful-beauty-blonde-hair-elegant-face-1492229-pxhere.com		" (Fichier média)
+[ERROR] Failed to import "
+				best-traditional-wedding-photography-photograph-black-1454917-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				bottle-brand-chanel-cologne-container-fragrance-1551509-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				ring-necklace-jewellery-silver-earrings-gem-1287223-pxhere		" (Fichier média)
+[ERROR] Failed to import "
+				app-store		" (Fichier média)
+[ERROR] Failed to import "
+				play-store		" (Fichier média)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				client-logos-8		" (Fichier média)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Rechercher - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+Top Header Info : 
+
+Texte - No Title - Imported
+
+Advertisement Banner One : 
+
+Image - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Produits - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Produits par note obtenue - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML personnalisé - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Catégories de produit - Product categories - Imported
+Filtres de produit actifs - Active filters - Imported
+Filtrer les produits par prix - Filter by price - Imported
+Produits - Products - Imported
+Nuage d’étiquettes produits - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Produits - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Produits - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Produits - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Produits - Products - Imported
+
+Footer Column 1 : 
+
+Texte - No Title - Imported
+
+Footer Column 2 : 
+
+HTML personnalisé - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML personnalisé - Shop Location - Imported
+
+Footer Column 4 : 
+
+Image - Download App - Imported
+Image - No Title - Imported
+
+Widgets Max Mega Menu : 
+
+Produits - Products - Imported
+Texte - No Title - Imported
+Produits - Products - Imported
+Texte - No Title - Imported
+Max Mega Menu - No Title - Imported
+Menu de navigation - No Title - Imported
+Image - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+

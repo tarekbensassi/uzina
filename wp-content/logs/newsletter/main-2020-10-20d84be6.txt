@@ -1,0 +1,2 @@
+23-10-2020 11:01:27 - ERROR - v: 6.7.2 - m: 52,1 MB, u: 0 - cURL error 28: Resolving timed out after 5656 milliseconds (http_request_failed) - 
+23-10-2020 11:02:42 - ERROR - v: 6.7.2 - m: 59,6 MB, u: 0 - cURL error 28: Resolving timed out after 5625 milliseconds (http_request_failed) - 
